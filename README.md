@@ -20,9 +20,11 @@ Brief description of the project purpose and goals.
 3. Run queries:
    ```bash
 	sqlite3 project00005.db < sql/queries.sql
+   ```
 4. Run tests
    ```bash
 	sqlite3 project00005.db < sql/test.sql
+   ```
 
 ---
 
@@ -105,6 +107,7 @@ MIT License
 ---
 
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
+
 
 
 
