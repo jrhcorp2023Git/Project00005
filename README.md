@@ -71,9 +71,9 @@ Test Results (from test.sql)
 ---
 
 Roadmap
-- Customers → Orders → Products.
-- Expand queries for advanced reporting
-- Automate test scripts further
+- [ ] Add ERD diagram  
+- [ ] Expand queries for advanced reporting  
+- [ ] Automate test scripts further  
 
 ---
 
@@ -105,6 +105,7 @@ MIT License
 ---
 
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
+
 
 
 
