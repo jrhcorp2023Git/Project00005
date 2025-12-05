@@ -33,7 +33,7 @@ Prerequisites
 - Command line access (Windows PowerShell, macOS Terminal, or Linux shell)
 Setup Instructions
 Step‑by‑step instructions for building and running the project.
-(We’ll expand this once queries and tests are finalized.)
+Run the schema and inserts files to build the database, then execute queries and tests to confirm outputs.
 
 ---
 
@@ -105,6 +105,7 @@ MIT License
 ---
 
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
+
 
 
 
