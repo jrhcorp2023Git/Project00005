@@ -73,7 +73,7 @@ Test Results (from test.sql)
 ---
 
 Roadmap
-- [ ] Add ERD diagram  ![ERD Diagram](docs/erd.png)
+- [ ] Add ERD diagram  ![ERD Diagram](doc/erd.png)
 - [ ] Expand queries for advanced reporting  
 - [ ] Automate test scripts further  
 
@@ -107,6 +107,7 @@ MIT License
 ---
 
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
+
 
 
 
