@@ -36,8 +36,16 @@ Step‑by‑step instructions for building and running the project.
 ---
 
 📊 Query Outputs
-Placeholder for query results tables.
-(We’ll paste actual outputs here after testing.)
+Query 1: Total Sales by Customer
+
+| Customer | City        | Total Spent |
+|----------|-------------|-------------|
+| Alice    | Pittsburgh  | 2000.0      |
+| Carol    | Columbus    | 1800.0      |
+| Bob      | Cleveland   | 1600.0      |
+
+Query 2: Order Count per Customer
+Query 3: Top Products by Revenue
 
 ---
 
@@ -48,7 +56,7 @@ Placeholder for test results.
 ---
 
 Roadmap
-- Add ERD diagram
+- Customers → Orders → Products.
 - Expand queries for advanced reporting
 - Automate test scripts further
 
@@ -62,4 +70,5 @@ MIT License
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
 
 👉 Would you like me to also sketch a **matching ERD diagram prompt** now, so you’ll have a placeholder image ready to drop into `docs/` when we polish the README?
+
 
