@@ -45,7 +45,26 @@ Query 1: Total Sales by Customer
 | Bob      | Cleveland   | 1600.0      |
 
 Query 2: Order Count per Customer
+
+| Customer | Orders |
+|----------|--------|
+| Alice    | 2      |
+| Bob      | 1      |
+| Carol    | 1      |
+
 Query 3: Top Products by Revenue
+
+| Product | Revenue |
+|---------|---------|
+| Phone   | 2400.0  |
+| Tablet  | 1800.0  |
+| Laptop  | 1200.0  |
+
+Test Results (from test.sql) 
+
+- Total Sales Sum: 5400.0
+- Customer Count: 3
+- Alice’s Orders: 2
 
 ---
 
@@ -70,5 +89,6 @@ MIT License
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
 
 👉 Would you like me to also sketch a **matching ERD diagram prompt** now, so you’ll have a placeholder image ready to drop into `docs/` when we polish the README?
+
 
 
