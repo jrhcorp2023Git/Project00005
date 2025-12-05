@@ -83,8 +83,23 @@ Roadmap
 
 Reinforcement Quiz
 
+1. 	Which SQL clause ensures that totals are calculated per customer in Query 1?
+A. 	Where
+B. 	Group By
+C. 	Order By
+D. 	Join
 
+2. 	In Query 2, why do we use a Left Join instead of an Inner Join?
+A. 	To exclude customers with orders
+B. 	To include customers even if they have no orders
+C. 	To sort customers alphabetically
+D. 	To calculate revenue per product
 
+3. 	What does the expression o.quantity * p.price represent in Query 3?
+A. 	The number of orders placed
+B. 	The total revenue for each product line
+C. 	The average price of products
+D. 	The count of customers per product
 
 ---
 
@@ -96,6 +111,7 @@ MIT License
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
 
 👉 Would you like me to also sketch a **matching ERD diagram prompt** now, so you’ll have a placeholder image ready to drop into `docs/` when we polish the README?
+
 
 
 
