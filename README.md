@@ -70,12 +70,6 @@ Test Results (from test.sql)
 
 ---
 
-🧪 Tests
-Placeholder for test results.
-(We’ll document expected values like total sales, customer count, etc.)
-
----
-
 Roadmap
 - Customers → Orders → Products.
 - Expand queries for advanced reporting
@@ -111,6 +105,7 @@ MIT License
 ---
 
 This shell gives you **structure without confusion**: Overview → Quick Start → Getting Started → Outputs → Tests → Roadmap → License. Tomorrow, once you’ve coded and run the queries, we’ll fill in the outputs and make it recruiter‑ready.
+
 
 
 
